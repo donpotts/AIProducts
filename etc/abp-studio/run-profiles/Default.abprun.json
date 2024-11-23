@@ -1,0 +1,13 @@
+﻿{
+  "applications": {
+    "AIProducts.Web": {
+      "type": "dotnet-project",
+      "launchUrl": "https://localhost:44336",
+      "path": "../../../src/AIProducts.Web/AIProducts.Web.csproj",
+      "kubernetesService": ".*-web$",
+      "execution": {
+        "order": 2
+      }
+    }
+  }
+}
