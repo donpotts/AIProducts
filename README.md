@@ -11,7 +11,7 @@ This repository contains an ASP.NET Core ABP Framework application with a Blazor
 - Maui Blazor UI: A modern web UI framework for .NET.
 - MudBlazor components: Using side or top navigation.
 - Swagger UI: An interactive documentation for your API.
-- Entity Framework Core SQL Server: A database provider for Entity Framework Core.
+- Entity Framework Core: A database provider for Entity Framework Core.
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ This repository contains an ASP.NET Core ABP Framework application with a Blazor
 - Maui Blazor
 - Swagger UI
 - MudBlazor Components
-- Entity Framework Core SQLServer
+- Entity Framework Core
 
 ### Installation
 
